@@ -4,7 +4,7 @@ WriTeX is an in-progress project that attempts to take a photograph of text, sym
 
 ## Authors
 * [Michael Wang](http://m1ch43lw4ng.com), http://github.com/m1ch43lw4ng
-* Rushil Kapadia, http://github.com/rushil-kapadia
+* Michael Wan, http://github.com/michael153
 
 ## Built With
 * [Tensorflow](https://tensorflow.org)
